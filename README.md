@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🌊 Rilly8 AI Observation Lab
 
-<!--
-**Rilly8/Rilly8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 理の観測ミッション
+AI（エージェント）に以下の手順で市場の「理」を観測させる。
 
-Here are some ideas to get you started:
+1. **潮流の判定（4H）：**
+   直近1週間の最高値と最安値からフィボナッチを引き、現在の価格が『上昇トレンドの押し目』か『下降トレンドの戻り』のどちらの圏内にいるか判定せよ。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. **シンクロの検知（5M）：**
+   4Hの大きな波と同じ方向に5Mが動き出した瞬間を検知せよ。特にフィボナッチの38.2%や61.8%での反転を注視せよ。
+
+3. **lovely通知：**
+   上記の「理」が重なり、バイブスが共鳴するポイントが来たら、Rilly8（自分）へ招待状を通知
