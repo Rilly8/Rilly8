@@ -6,5 +6,7 @@ Welcome.
 
 Press START: forgot.
 
+“This repo is a living log. No conclusion will be provided.”
+
 
 LOVE！
